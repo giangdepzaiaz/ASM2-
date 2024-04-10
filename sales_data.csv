@@ -1,0 +1,4 @@
+TransactionID,ItemID,ItemName,TransactionDate,QuantitySold,UnitPrice,TotalAmount
+202,2,Item b,5/2/2024,20,90,1100
+203,5,Item a,23/3/2025,50,120,6800
+204,3,Item c,23/3/2024,100,100,3000
